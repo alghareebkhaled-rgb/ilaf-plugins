@@ -1,0 +1,509 @@
+{
+  "_comment": "Copy this file, replace the values, then run build_report_deck.py against it. Any field you omit or set to null renders as 'غير متاح · Not available' rather than zero — leave things out rather than guessing at them.",
+  "data_status": "sample",
+  "_data_status_note": "Set to 'verified' ONLY when every headline figure came from a source you actually read this month (Supermetrics query, an export the user attached, or a profile you opened). Anything else — example data, carried-over numbers, figures you inferred — stays 'sample', which stamps every slide. A deck built from unverified numbers looks exactly as finished as a real one, and decks get forwarded.",
+  "period": {
+    "month_label_en": "July 2026",
+    "month_label_ar": "يوليو 2026",
+    "prev_month_label_en": "June 2026",
+    "start": "2026-07-01",
+    "end": "2026-07-31",
+    "days_in_month": 31
+  },
+  "generated_on": "2026-08-10",
+  "headline": {
+    "en": "Reach grew 18% on 30% fewer posts — reels are carrying the account, while engagement rate slipped as follower growth outpaced interaction.",
+    "ar": "ارتفع الوصول ١٨٪ رغم انخفاض عدد المنشورات ٣٠٪ — الريلز هي المحرّك الأساسي، بينما تراجع معدل التفاعل لأن نمو المتابعين سبق نمو التفاعل."
+  },
+  "ilaf": {
+    "instagram": {
+      "current": {
+        "followers": 4820,
+        "follower_growth": 312,
+        "follows": 388,
+        "unfollows": 76,
+        "reach": 62400,
+        "impressions": 91200,
+        "profile_views": 2140,
+        "website_clicks": 186,
+        "likes": 3120,
+        "comments": 214,
+        "saves": 168,
+        "shares": 142,
+        "total_engagement": 3644,
+        "engagement_rate": 5.8,
+        "posts_total": 14,
+        "stories_total": 38,
+        "posts_per_week": 3.2,
+        "by_format": {
+          "static": 6,
+          "carousel": 3,
+          "reel": 5
+        }
+      },
+      "previous": {
+        "followers": 4508,
+        "follower_growth": 190,
+        "follows": 260,
+        "unfollows": 70,
+        "reach": 52900,
+        "impressions": 78400,
+        "profile_views": 1780,
+        "website_clicks": 154,
+        "likes": 3010,
+        "comments": 180,
+        "saves": 140,
+        "shares": 96,
+        "total_engagement": 3426,
+        "engagement_rate": 6.5,
+        "posts_total": 20,
+        "stories_total": 44,
+        "posts_per_week": 4.6,
+        "by_format": {
+          "static": 11,
+          "carousel": 6,
+          "reel": 3
+        }
+      },
+      "audience_note": {
+        "en": "Net growth nearly doubled, and unfollows stayed flat — the new audience is sticking.",
+        "ar": "تضاعف صافي النمو تقريباً مع ثبات معدل إلغاء المتابعة، ما يعني أن الجمهور الجديد مستقر."
+      },
+      "engagement_note": {
+        "en": "Engagement volume rose 6% but rate fell from 6.5% to 5.8%: reach grew faster than interaction. Expected when reels push content beyond existing followers.",
+        "ar": "ارتفع حجم التفاعل ٦٪ لكن المعدل تراجع من ٦٫٥٪ إلى ٥٫٨٪، لأن الوصول نما أسرع من التفاعل — وهو أمر متوقع عند انتشار الريلز خارج دائرة المتابعين."
+      },
+      "output_note": {
+        "en": "Output dropped from 20 posts to 14, but the format mix shifted toward reels — fewer, stronger posts.",
+        "ar": "انخفض عدد المنشورات من ٢٠ إلى ١٤ مع تحوّل المزيج نحو الريلز — منشورات أقل وأقوى."
+      },
+      "top_posts": [
+        {
+          "date": "2026-07-11",
+          "format": "reel",
+          "theme": "safety_tips",
+          "topic_en": "Summer heat and your car battery",
+          "topic_ar": "حرارة الصيف وبطارية سيارتك",
+          "reach": 14200,
+          "engagement": 1180,
+          "engagement_rate": 8.3,
+          "why_en": "Practical, seasonal, and solved a problem people were having that week. Posted Friday evening.",
+          "why_ar": "نصيحة عملية وموسمية عالجت مشكلة يعيشها الناس فعلاً، ونُشرت مساء الجمعة."
+        },
+        {
+          "date": "2026-07-19",
+          "format": "reel",
+          "theme": "educational",
+          "topic_en": "What 'comprehensive' actually covers",
+          "topic_ar": "ما الذي يغطيه التأمين الشامل فعلاً",
+          "reach": 11600,
+          "engagement": 842,
+          "engagement_rate": 7.3,
+          "why_en": "Answered a question customers ask constantly — high save rate signals reference value.",
+          "why_ar": "أجاب عن سؤال يتكرر كثيراً من العملاء، ومعدل الحفظ المرتفع يدل على قيمته المرجعية."
+        },
+        {
+          "date": "2026-07-04",
+          "format": "static",
+          "theme": "religious_occasion",
+          "topic_en": "Jum'ah greeting",
+          "topic_ar": "تهنئة الجمعة",
+          "reach": 6900,
+          "engagement": 468,
+          "engagement_rate": 6.8,
+          "why_en": "Consistent weekly performer — low effort, reliable engagement from the core audience.",
+          "why_ar": "أداء أسبوعي ثابت بجهد قليل وتفاعل موثوق من الجمهور الأساسي."
+        }
+      ],
+      "top_pattern": {
+        "en": "Reels posted on weekend evenings, answering a question the viewer already had. Three of the top four were reels while reels were only 36% of output.",
+        "ar": "الريلز المنشورة مساء نهاية الأسبوع والتي تجيب عن سؤال قائم لدى المشاهد. ثلاثة من أفضل أربعة منشورات كانت ريلز رغم أنها ٣٦٪ فقط من الإنتاج."
+      },
+      "weak_posts": [
+        {
+          "date": "2026-07-22",
+          "format": "carousel",
+          "theme": "product_promotion",
+          "topic_en": "Marine cargo all-risk cover",
+          "topic_ar": "تغطية البضائع البحرية ضد جميع الأخطار",
+          "reach": 2100,
+          "engagement": 42,
+          "engagement_rate": 2.0,
+          "why_en": "B2B topic on a retail-majority audience. Six slides of policy detail with no hook on slide one.",
+          "why_ar": "موضوع موجّه للشركات أمام جمهور غالبيته أفراد، وست شرائح من التفاصيل دون جاذب في الشريحة الأولى."
+        },
+        {
+          "date": "2026-07-28",
+          "format": "static",
+          "theme": "corporate_news",
+          "topic_en": "Quarterly results announcement",
+          "topic_ar": "إعلان النتائج الربعية",
+          "reach": 2650,
+          "engagement": 58,
+          "engagement_rate": 2.2,
+          "why_en": "Necessary to publish, but corporate news rarely earns engagement here — treat as compliance, not content.",
+          "why_ar": "نشره ضروري، لكن الأخبار المؤسسية نادراً ما تحقق تفاعلاً هنا — تُعامل كالتزام لا كمحتوى."
+        }
+      ],
+      "weak_pattern": {
+        "en": "Both were information pushed at the audience rather than a question answered for them. Move B2B lines to LinkedIn and keep Instagram retail-facing.",
+        "ar": "كلاهما معلومات مُرسلة للجمهور لا إجابات لأسئلته. يُفضّل نقل المنتجات الموجهة للشركات إلى لينكدإن وإبقاء إنستغرام للأفراد."
+      }
+    },
+    "google_business": {
+      "current": {
+        "profile_views": 3180,
+        "views_search": 2410,
+        "views_maps": 770,
+        "searches_direct": 1290,
+        "searches_discovery": 1620,
+        "website_clicks": 214,
+        "phone_calls": 96,
+        "direction_requests": 63
+      },
+      "previous": {
+        "profile_views": 2840,
+        "views_search": 2200,
+        "views_maps": 640,
+        "searches_direct": 1240,
+        "searches_discovery": 1310,
+        "website_clicks": 188,
+        "phone_calls": 78,
+        "direction_requests": 51
+      },
+      "reviews": {
+        "total": 47,
+        "average_rating": 4.3,
+        "new_this_month": 4,
+        "quote_en": "Claim was settled in three days, much faster than I expected.",
+        "quote_ar": "تمت تسوية المطالبة خلال ثلاثة أيام، أسرع بكثير مما توقعت."
+      }
+    },
+    "whatsapp": {
+      "current": {
+        "messages_received": 312,
+        "by_topic": {
+          "motor": 128,
+          "medical": 74,
+          "travel": 61,
+          "home": 31,
+          "other": 18
+        }
+      },
+      "previous": {
+        "messages_received": 268
+      },
+      "note": {
+        "en": "Optional context line.",
+        "ar": "سطر سياق اختياري."
+      }
+    }
+  },
+  "ilaf_competitor_row": {
+    "is_ilaf": true,
+    "handle": "@ilaf_takaful",
+    "name_en": "ILAF Takaful",
+    "type": "takaful",
+    "followers": 4820,
+    "posts_total": 14,
+    "by_format": {
+      "static": 6,
+      "carousel": 3,
+      "reel": 5
+    },
+    "stories": {
+      "observed": 38,
+      "days_covered": 28
+    },
+    "posts_per_week": 3.2,
+    "rhythm": "steady",
+    "themes": {
+      "product_promotion": 4,
+      "educational": 3,
+      "safety_tips": 3,
+      "religious_occasion": 3,
+      "corporate_news": 1
+    },
+    "availability": "full"
+  },
+  "competitors": [
+    {
+      "handle": "@gigtakaful",
+      "name_en": "GIG Takaful Kuwait",
+      "name_ar": "جي آي جي تكافل",
+      "type": "takaful",
+      "followers": 9200,
+      "posts_total": 22,
+      "by_format": {
+        "static": 9,
+        "carousel": 4,
+        "reel": 9
+      },
+      "stories": {
+        "observed": 61,
+        "days_covered": 28
+      },
+      "posts_per_week": 5.0,
+      "rhythm": "steady",
+      "themes": {
+        "product_promotion": 9,
+        "educational": 5,
+        "engagement_interactive": 4,
+        "religious_occasion": 3,
+        "corporate_news": 1
+      },
+      "availability": "full",
+      "standout_posts": [
+        {
+          "date": "2026-07-15",
+          "format": "reel",
+          "theme": "engagement_interactive",
+          "engagement": 2100,
+          "why_en": "Quiz reel with a prize — drove comments far above their norm."
+        }
+      ]
+    },
+    {
+      "handle": "@wethaqkuwait",
+      "name_en": "Wethaq Takaful",
+      "type": "takaful",
+      "followers": 6400,
+      "posts_total": 11,
+      "by_format": {
+        "static": 7,
+        "carousel": 2,
+        "reel": 2
+      },
+      "stories": {
+        "observed": 19,
+        "days_covered": 28
+      },
+      "posts_per_week": 2.5,
+      "rhythm": "sporadic",
+      "themes": {
+        "product_promotion": 6,
+        "religious_occasion": 3,
+        "customer_service": 2
+      },
+      "availability": "full"
+    },
+    {
+      "handle": "@kfhtakaful",
+      "name_en": "KFH Takaful",
+      "type": "takaful",
+      "followers": 11800,
+      "posts_total": 18,
+      "by_format": {
+        "static": 6,
+        "carousel": 5,
+        "reel": 7
+      },
+      "stories": {
+        "observed": 44,
+        "days_covered": 28
+      },
+      "posts_per_week": 4.1,
+      "rhythm": "steady",
+      "themes": {
+        "product_promotion": 7,
+        "educational": 6,
+        "corporate_news": 3,
+        "national_civic": 2
+      },
+      "availability": "full"
+    },
+    {
+      "handle": "@boubyantakaful",
+      "name_en": "Boubyan Takaful",
+      "type": "takaful",
+      "followers": 5100,
+      "posts_total": 9,
+      "by_format": {
+        "static": 5,
+        "carousel": 2,
+        "reel": 2
+      },
+      "stories": {
+        "observed": 12,
+        "days_covered": 28
+      },
+      "posts_per_week": 2.0,
+      "rhythm": "bursty",
+      "themes": {
+        "product_promotion": 5,
+        "religious_occasion": 2,
+        "corporate_news": 2
+      },
+      "availability": "full"
+    },
+    {
+      "handle": "@warbakw",
+      "name_en": "Warba Insurance",
+      "type": "conventional",
+      "followers": 14200,
+      "posts_total": 26,
+      "by_format": {
+        "static": 8,
+        "carousel": 6,
+        "reel": 12
+      },
+      "stories": {
+        "observed": 73,
+        "days_covered": 28
+      },
+      "posts_per_week": 5.9,
+      "rhythm": "steady",
+      "themes": {
+        "product_promotion": 10,
+        "educational": 6,
+        "safety_tips": 5,
+        "engagement_interactive": 3,
+        "corporate_news": 2
+      },
+      "availability": "full"
+    },
+    {
+      "handle": "@gulfinsurance",
+      "name_en": "GIG Kuwait",
+      "type": "conventional",
+      "followers": 18600,
+      "posts_total": 20,
+      "by_format": {
+        "static": 7,
+        "carousel": 5,
+        "reel": 8
+      },
+      "stories": {
+        "observed": 55,
+        "days_covered": 28
+      },
+      "posts_per_week": 4.5,
+      "rhythm": "steady",
+      "themes": {
+        "product_promotion": 8,
+        "educational": 5,
+        "corporate_news": 4,
+        "safety_tips": 3
+      },
+      "availability": "full"
+    },
+    {
+      "handle": "@ahleiainsurance",
+      "name_en": "Al Ahleia Insurance",
+      "type": "conventional",
+      "followers": 7300,
+      "posts_total": null,
+      "by_format": {},
+      "stories": {},
+      "posts_per_week": null,
+      "rhythm": null,
+      "themes": {},
+      "availability": "unavailable",
+      "note": "Profile would not load past the login wall on three attempts during the capture window."
+    }
+  ],
+  "strategy_observations": [
+    {
+      "en": "Warba and GIG Takaful both run interactive content — quizzes and polls. No Kuwaiti takaful insurer except GIG Takaful does this, and ILAF does none.",
+      "ar": "وربة وجي آي جي تكافل ينشران محتوى تفاعلياً من مسابقات واستفتاءات، ولا تفعل ذلك أي شركة تكافل أخرى، ولا إيلاف."
+    },
+    {
+      "en": "Reels are now the majority format for the three most active accounts. ILAF is at 36% reels — mid-pack and rising.",
+      "ar": "أصبحت الريلز الصيغة الغالبة لدى أنشط ثلاثة حسابات. إيلاف عند ٣٦٪ — في منتصف السوق مع اتجاه صاعد."
+    },
+    {
+      "en": "Safety tips are underused market-wide: only Warba and ILAF publish them, and they perform well for both.",
+      "ar": "نصائح السلامة غير مستغلة في السوق: وربة وإيلاف فقط تنشرانها، وتحقق أداءً جيداً لدى كليهما."
+    },
+    {
+      "en": "Nobody in the market is posting claims-process content, despite it being what reviews mention most.",
+      "ar": "لا أحد في السوق ينشر محتوى عن إجراءات المطالبات رغم أنه الأكثر ذكراً في التقييمات."
+    }
+  ],
+  "share_of_voice": {
+    "ilaf_share_pct": 12.4,
+    "accounts_tracked": 7,
+    "total_posts_market": 113,
+    "note": {
+      "en": "ILAF published 14 of 113 tracked posts — sixth of seven by volume, but third by engagement rate.",
+      "ar": "نشرت إيلاف ١٤ من أصل ١١٣ منشوراً — المركز السادس من سبعة بالحجم، لكن الثالث بمعدل التفاعل."
+    }
+  },
+  "recommendations": [
+    {
+      "en": "Shift the format mix toward reels: they were 3 of the top 4 posts at only 36% of output.",
+      "ar": "توجيه مزيج المحتوى نحو الريلز: حققت ٣ من أفضل ٤ منشورات رغم أنها ٣٦٪ فقط من الإنتاج."
+    },
+    {
+      "en": "Move marine and B2B lines off Instagram to LinkedIn — both underperformed by over 60% here.",
+      "ar": "نقل التأمين البحري ومنتجات الشركات من إنستغرام إلى لينكدإن — أداؤهما أقل من المتوسط بأكثر من ٦٠٪."
+    },
+    {
+      "en": "Launch a claims-process explainer series. No competitor covers it and it's what customers ask about in reviews.",
+      "ar": "إطلاق سلسلة توضيحية عن إجراءات المطالبات — لا ينافس فيها أحد وهي ما يسأل عنه العملاء في التقييمات."
+    },
+    {
+      "en": "Test one interactive post per week (poll or quiz). GIG Takaful's quiz reel was their top post of the month.",
+      "ar": "تجربة منشور تفاعلي أسبوعياً. كان ريل المسابقة لدى جي آي جي تكافل أفضل منشوراتهم هذا الشهر."
+    },
+    {
+      "en": "Raise output from 3.2 to 4 posts per week to close the gap with the takaful peer average of 3.4.",
+      "ar": "رفع معدل النشر من ٣٫٢ إلى ٤ منشورات أسبوعياً لتقليص الفارق مع متوسط شركات التكافل البالغ ٣٫٤."
+    }
+  ],
+  "coverage": {
+    "lines": [
+      {
+        "label": "ILAF Instagram",
+        "status": "ok",
+        "detail": "Full month via Supermetrics"
+      },
+      {
+        "label": "Google Business Profile",
+        "status": "ok",
+        "detail": "Full month"
+      },
+      {
+        "label": "Competitor feed posts",
+        "status": "partial",
+        "detail": "6 of 7 accounts captured"
+      },
+      {
+        "label": "Story tracking",
+        "status": "partial",
+        "detail": "28 of 31 days captured"
+      },
+      {
+        "label": "Al Ahleia Insurance",
+        "status": "missing",
+        "detail": "Profile inaccessible"
+      }
+    ],
+    "note": {
+      "en": "Story counts are observed totals from the days captured, not scaled estimates. Competitor reach is not published by Instagram and is therefore absent by design.",
+      "ar": "أرقام القصص هي إجماليات فعلية للأيام المرصودة وليست تقديرات. لا تنشر إنستغرام بيانات وصول المنافسين، لذلك لا تظهر هنا."
+    }
+  },
+  "competitor_ads": {
+    "capture_days": 22,
+    "capture_total_days": 31,
+    "advertisers": [
+      {
+        "handle": "@gulfinsurance",
+        "name_en": "GIG Kuwait",
+        "ads_count": 9,
+        "first_seen": "03 Aug",
+        "promoted_en": "Motor renewal offer — 20% off comprehensive, video ad",
+        "promoted_ar": "عرض تجديد المركبات — خصم 20% على الشامل"
+      }
+    ],
+    "insight": {
+      "en": "The pattern across advertisers — what everyone pushed, and what nobody did.",
+      "ar": "النمط العام لدى المعلنين — ما ركّز عليه الجميع وما أهمله الجميع."
+    },
+    "note": {
+      "en": "Shown when no ads were captured.",
+      "ar": "يظهر عند عدم رصد أي إعلانات."
+    }
+  }
+}
