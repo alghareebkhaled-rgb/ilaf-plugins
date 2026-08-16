@@ -1,0 +1,13 @@
+{
+  "name": "ilaf-plugins",
+  "owner": { "name": "Khaled" },
+  "plugins": [
+    {
+      "name": "ilaf-brand",
+      "source": "./ilaf-brand",
+      "description": "ILAF Takaful brand workflow — on-brand Arabic/English social design and the monthly social performance report.",
+      "category": "marketing",
+      "keywords": ["ilaf", "brand", "design", "arabic", "instagram", "reporting"]
+    }
+  ]
+}
