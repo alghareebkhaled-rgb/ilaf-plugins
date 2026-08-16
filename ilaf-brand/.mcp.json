@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "canva": { "type": "http", "url": "https://mcp.canva.com/mcp" },
+    "adobe-creativity": { "type": "http", "url": "https://adobe-creativity.adobe.io/mcp" },
+    "google-drive": { "type": "http", "url": "https://drivemcp.googleapis.com/mcp/v1" },
+    "supermetrics": { "type": "http", "url": "https://mcp.supermetrics.com/mcp" },
+    "higgsfield": { "type": "http", "url": "https://bridge.higgsfield.ai/mcp" }
+  }
+}
